@@ -3,9 +3,9 @@
 现由信息学院生活保障与权益部举办2019年度寝室文化创建系列特色活动。
 
 ## 下载报名表
-[下载信息学院寝室文化创意作品征集活动报名表](https://github.com/ElderMedic/Guide-for-DormAction/blob/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E5%AF%9D%E5%AE%A4%E6%96%87%E5%8C%96%E5%88%9B%E6%84%8F%E4%BD%9C%E5%93%81%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
+[下载信息学院寝室文化创意作品征集活动报名表](https://github.com/ElderMedic/Guide-for-DormAction/raw/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E5%AF%9D%E5%AE%A4%E6%96%87%E5%8C%96%E5%88%9B%E6%84%8F%E4%BD%9C%E5%93%81%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
 
-[下载信息学院星级寝室评选大赛报名表](https://github.com/ElderMedic/Guide-for-DormAction/blob/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E6%98%9F%E7%BA%A7%E5%AF%9D%E5%AE%A4%E8%AF%84%E9%80%89%E5%A4%A7%E8%B5%9B%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
+[下载信息学院星级寝室评选大赛报名表](https://github.com/ElderMedic/Guide-for-DormAction/raw/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E6%98%9F%E7%BA%A7%E5%AF%9D%E5%AE%A4%E8%AF%84%E9%80%89%E5%A4%A7%E8%B5%9B%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
 
 ## 活动内容简介
 
@@ -137,6 +137,6 @@
 
 # 附件：报名表
 
-[下载信息学院寝室文化创意作品征集活动报名表](https://github.com/ElderMedic/Guide-for-DormAction/blob/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E5%AF%9D%E5%AE%A4%E6%96%87%E5%8C%96%E5%88%9B%E6%84%8F%E4%BD%9C%E5%93%81%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
+[下载信息学院寝室文化创意作品征集活动报名表](https://github.com/ElderMedic/Guide-for-DormAction/raw/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E5%AF%9D%E5%AE%A4%E6%96%87%E5%8C%96%E5%88%9B%E6%84%8F%E4%BD%9C%E5%93%81%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
 
-[下载信息学院星级寝室评选大赛报名表](https://github.com/ElderMedic/Guide-for-DormAction/blob/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E6%98%9F%E7%BA%A7%E5%AF%9D%E5%AE%A4%E8%AF%84%E9%80%89%E5%A4%A7%E8%B5%9B%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
+[下载信息学院星级寝室评选大赛报名表](https://github.com/ElderMedic/Guide-for-DormAction/raw/master/%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2%E6%98%9F%E7%BA%A7%E5%AF%9D%E5%AE%A4%E8%AF%84%E9%80%89%E5%A4%A7%E8%B5%9B%E6%8A%A5%E5%90%8D%E8%A1%A8.docx)
