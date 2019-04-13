@@ -8,6 +8,8 @@
 
 [寝室文化创意征集在线报名](https://www.wjx.top/jq/37673294.aspx)
 
+[院星级寝室评选](https://www.wjx.top/jq/37671984.aspx)
+
 
 
 ## 下载报名表
