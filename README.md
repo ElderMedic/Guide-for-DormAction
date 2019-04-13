@@ -6,6 +6,8 @@
 
 [7天节能挑战赛在线报名](https://www.wjx.top/jq/37674408.aspx)
 
+[寝室文化创意征集在线报名](https://www.wjx.top/jq/37673294.aspx)
+
 
 
 ## 下载报名表
